@@ -2,8 +2,7 @@ RENCANA KONTEN WPU
 
 - Javascript
   *ES6
+  *Framework Javascript
+   ^Angular
+   ^React
 - ReactNative
-- html
--CSS
--Pyhhton
--React
