@@ -1,4 +1,5 @@
 RENCANA KONTEN WPU
 
 - Javascript
-ReactNative
+  *ES6
+- ReactNative
